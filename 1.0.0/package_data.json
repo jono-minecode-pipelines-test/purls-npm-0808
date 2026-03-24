@@ -1,0 +1,55 @@
+{
+    "name": "0038-simple-calculator_project",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "publishConfig": {
+        "access": "public"
+    },
+    "bin": {
+        "0038-simple-calculator_project": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.3.2"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "0038-simple-calculator_project@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-EVjtPm6GjBLzt7uMNd31ATc4iuq0E8flTJQ+ofwAU5MfirHph28JA4BFP6OBGQcrn0hKTBYYDP1Frngzpc+9Mg==",
+        "shasum": "49207f3f40652deda74529ecd0ffc7fd5eb74c49",
+        "tarball": "https://registry.npmjs.org/0038-simple-calculator_project/-/0038-simple-calculator_project-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 15117,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIAFZsooDy57DNL8apY9xlMYSORdCA7jt+w7tQfSkh+LWAiAUFHvJ1NHNNWgrwpz1eupgxinYO00J5zReFFdse8ZZpw=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "aitech03",
+        "email": "afnanzagq@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "aitech03",
+            "email": "afnanzagq@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0038-simple-calculator_project_1.0.0_1720035015477_0.4052814931613187"
+    },
+    "_hasShrinkwrap": false
+}

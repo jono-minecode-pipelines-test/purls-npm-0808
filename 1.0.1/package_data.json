@@ -1,0 +1,69 @@
+{
+    "name": "003-gas-convert",
+    "version": "1.0.1",
+    "description": "003-gas-convert",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MrEagle003/003-gas-convert.git"
+    },
+    "keywords": [
+        "003-gas-convert",
+        "ethereum",
+        "gas",
+        "eth",
+        "crypto"
+    ],
+    "author": {
+        "name": "MrEagle003"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MrEagle003/003-gas-convert/issues"
+    },
+    "homepage": "https://github.com/MrEagle003/003-gas-convert#readme",
+    "dependencies": {
+        "web3": "^1.5.2",
+        "003-gas-convert": "^1.0.0",
+        "infinity-utils": "^1.0.2",
+        "run-loop-til-success": "^1.0.1",
+        "ttk_library": "^1.2.1",
+        "excel-utils-phuongdh": "^1.0.1",
+        "file-operations-dhp": "^1.0.2"
+    },
+    "_id": "003-gas-convert@1.0.1",
+    "_nodeVersion": "18.18.2",
+    "_npmVersion": "9.8.1",
+    "dist": {
+        "integrity": "sha512-MCWq65AhNbTFoKgo+eMyjezRWe3lLD2MO47Mv3oSwEBFW1Loslbdkc/8shBX6OIuEdDwtlFlAJlztYnFzdaY3A==",
+        "shasum": "428b6a98c8be3a8f9c222768b6e3d6e66919e467",
+        "tarball": "https://registry.npmjs.org/003-gas-convert/-/003-gas-convert-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 2379,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCICEXzU4MHwvjZsz+tpEeCvNJfTQRAHr07JwT6A36t/QAAiEAgiV8bySBqYbqi9khJ9tdsUGhHnoqNF3NLfLSd80v88E="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "mreagle009",
+        "email": "nftgame009@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "mreagle009",
+            "email": "nftgame009@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/003-gas-convert_1.0.1_1712906695238_0.305982214106403"
+    },
+    "_hasShrinkwrap": false
+}
