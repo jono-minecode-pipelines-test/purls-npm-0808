@@ -1,0 +1,71 @@
+{
+    "name": "00ricardo-utils",
+    "version": "3.0.0",
+    "description": "Ricardo Brice\u00f1o personal JavaScript Util Functions.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "rollup -c"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/00ricardo/00ricardo-utils.git"
+    },
+    "keywords": [
+        "ES6",
+        "JavaScript",
+        "Utils"
+    ],
+    "author": {
+        "name": "Ricardo Brice\u00f1o"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/00ricardo/00ricardo-utils/issues"
+    },
+    "homepage": "https://github.com/00ricardo/00ricardo-utils#readme",
+    "dependencies": {
+        "@rollup/plugin-commonjs": "^26.0.1",
+        "@rollup/plugin-node-resolve": "^15.2.3",
+        "@tanstack/react-query": "^5.13.4",
+        "dayjs": "^1.11.10",
+        "luxon": "^3.4.4",
+        "react": "^18.2.0",
+        "rollup-plugin-terser": "^7.0.2"
+    },
+    "types": "./index.d.ts",
+    "gitHead": "e4d5c3b7cdcaad753dd13e66f6515c93c282f6cd",
+    "_id": "00ricardo-utils@3.0.0",
+    "_nodeVersion": "20.0.0",
+    "_npmVersion": "9.6.4",
+    "dist": {
+        "integrity": "sha512-iscvMX8/FYLmJCrhLzJydXZ3DwjtX9FBQjAo7wSNNd+5e1FarkQ6e120UVM7zQ2zyWoE3Zm4DtpjGdmsJMih6w==",
+        "shasum": "e9f6629e4c85fab1016fd24e8e0466abe3e532f6",
+        "tarball": "https://registry.npmjs.org/00ricardo-utils/-/00ricardo-utils-3.0.0.tgz",
+        "fileCount": 10,
+        "unpackedSize": 1746811,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHXU8nr0luMxLh3ixcdw8ivevlfYrVQrkNG7l5Gz0IaoAiEAhg4s4++VNKmNlP0b8wKeg7drKTQj5Odt7guRbxnf04c="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "00ricardo",
+        "email": "ricardodavid120@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "00ricardo",
+            "email": "ricardodavid120@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/00ricardo-utils_3.0.0_1723725269114_0.28417939019014704"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,69 +1,54 @@
 {
-    "name": "003-gas-convert",
+    "name": "00ricardo-utils",
     "version": "1.0.1",
-    "description": "003-gas-convert",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "00ricardo-utils@1.0.1",
+    "maintainers": [
+        {
+            "name": "00ricardo",
+            "email": "ricardodavid120@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/00ricardo/00ricardo-utils#readme",
+    "bugs": {
+        "url": "https://github.com/00ricardo/00ricardo-utils/issues"
+    },
+    "dist": {
+        "shasum": "8326e9a78b095f010a44c685c5c7af2f86d6756a",
+        "tarball": "https://registry.npmjs.org/00ricardo-utils/-/00ricardo-utils-1.0.1.tgz",
+        "fileCount": 4,
+        "integrity": "sha512-14aRbRXl8kZ7JRgTRXosCDP91kR8tDGlUmouN9a4uHpJGDPvApZqTFEQa04xyNgpqL7ET39TPc4Hn6hGctL9LA==",
+        "signatures": [
+            {
+                "sig": "MEUCIQCTUTKol38m6dI8YF7ZXFsUtdpTc46TonTl43lOmwEZWQIgWlpkkBO4QnS3MTHgzakGmmnO97xHOfZl8rAWs23c5kE=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 1638,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjwvOjACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpf1Q/+LfsOstCs19DGrymbd+l4d5o8Ri2XRITyRQZjiAexZmt9wte0\r\ntF4iJNPRaQ0a5JNqwJ+H6i+JsSTXV5YYDZYXt4X8XbZZpD425dobUCSMuxz1\r\nv2SCAG3Mf/oT/QoumE8K+xYZ8cfQyMIkZuakYvczVe5qtD3LeIuxPVtKSo0F\r\nDLaVUWtlR5Gq9jlNbgF4Y/NE5YtsY2kfFEN7VrtuxFSc+X+/Ec0IFevYBE0Z\r\nI/ijVY6m3RgjI7s+DuWE+SMhhe1brMEtbYP1R1xCh23kRnqHZFeUNAE49plo\r\neNipnQEm5X82ZTRtzBkez0LcNtEP6eN+JMlG4j3UZWqQgZe0xZGCOS93xtZv\r\ne/LUDH2dcLenJJM287CUPTcG/WHPZscZnkxZaMCIg7Cd5mJQZDX6qSjTjMBx\r\nHNwWcD7s50+F73vhhGxy0brij6DkLpsf/IJ3qXIPkjAqPHF/3HsEY3QbzQsa\r\nivF0UdIS/Or/Ml5IKdqZKd2/XCCqT71Naj5h+J8qnCwlb4mBE/HAA1sJUp48\r\nFBhwKLe8JpbRpju2oD0oo59G1vQeMAGQgvZ+xiw2zQTGgygTxSxMXovUqo6z\r\nWjKPPu8RGHNR2o2q269X4o/kNBoB7s6WNiJshbU777cjKp0HeCXCXOkHbHCg\r\n/8wIEC3JecZUnksma6faOunkyUQykQ7MWPM=\r\n=7ld6\r\n-----END PGP SIGNATURE-----\r\n"
+    },
     "main": "index.js",
+    "gitHead": "5d1ce1b17264bbb0cabefa8e78c63f30fd68d9e6",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/MrEagle003/003-gas-convert.git"
-    },
-    "keywords": [
-        "003-gas-convert",
-        "ethereum",
-        "gas",
-        "eth",
-        "crypto"
-    ],
-    "author": {
-        "name": "MrEagle003"
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/MrEagle003/003-gas-convert/issues"
-    },
-    "homepage": "https://github.com/MrEagle003/003-gas-convert#readme",
-    "dependencies": {
-        "web3": "^1.5.2",
-        "003-gas-convert": "^1.0.0",
-        "infinity-utils": "^1.0.2",
-        "run-loop-til-success": "^1.0.1",
-        "ttk_library": "^1.2.1",
-        "excel-utils-phuongdh": "^1.0.1",
-        "file-operations-dhp": "^1.0.2"
-    },
-    "_id": "003-gas-convert@1.0.1",
-    "_nodeVersion": "18.18.2",
-    "_npmVersion": "9.8.1",
-    "dist": {
-        "integrity": "sha512-MCWq65AhNbTFoKgo+eMyjezRWe3lLD2MO47Mv3oSwEBFW1Loslbdkc/8shBX6OIuEdDwtlFlAJlztYnFzdaY3A==",
-        "shasum": "428b6a98c8be3a8f9c222768b6e3d6e66919e467",
-        "tarball": "https://registry.npmjs.org/003-gas-convert/-/003-gas-convert-1.0.1.tgz",
-        "fileCount": 4,
-        "unpackedSize": 2379,
-        "signatures": [
-            {
-                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEUCICEXzU4MHwvjZsz+tpEeCvNJfTQRAHr07JwT6A36t/QAAiEAgiV8bySBqYbqi9khJ9tdsUGhHnoqNF3NLfLSd80v88E="
-            }
-        ]
-    },
     "_npmUser": {
-        "name": "mreagle009",
-        "email": "nftgame009@gmail.com"
+        "name": "00ricardo",
+        "email": "ricardodavid120@gmail.com"
     },
+    "repository": {
+        "url": "git+https://github.com/00ricardo/00ricardo-utils.git",
+        "type": "git"
+    },
+    "_npmVersion": "8.8.0",
+    "description": "Testing package",
     "directories": {},
-    "maintainers": [
-        {
-            "name": "mreagle009",
-            "email": "nftgame009@gmail.com"
-        }
-    ],
+    "_nodeVersion": "16.4.0",
+    "_hasShrinkwrap": false,
     "_npmOperationalInternal": {
-        "host": "s3://npm-registry-packages",
-        "tmp": "tmp/003-gas-convert_1.0.1_1712906695238_0.305982214106403"
-    },
-    "_hasShrinkwrap": false
+        "tmp": "tmp/00ricardo-utils_1.0.1_1673720739049_0.2881493734611644",
+        "host": "s3://npm-registry-packages"
+    }
 }

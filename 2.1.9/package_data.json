@@ -1,0 +1,70 @@
+{
+    "name": "00ricardo-utils",
+    "version": "2.1.9",
+    "keywords": [
+        "ES6",
+        "JavaScript",
+        "Utils"
+    ],
+    "author": {
+        "name": "Ricardo Brice\u00f1o"
+    },
+    "license": "MIT",
+    "_id": "00ricardo-utils@2.1.9",
+    "maintainers": [
+        {
+            "name": "00ricardo",
+            "email": "ricardodavid120@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/00ricardo/00ricardo-utils#readme",
+    "bugs": {
+        "url": "https://github.com/00ricardo/00ricardo-utils/issues"
+    },
+    "dist": {
+        "shasum": "066b57b21907f87986bf730336eb5594fefd5c11",
+        "tarball": "https://registry.npmjs.org/00ricardo-utils/-/00ricardo-utils-2.1.9.tgz",
+        "fileCount": 7,
+        "integrity": "sha512-jyon+D9csBTmjsr7BqlML+C23fLYb+ranuxCCH1Cay+lEwr8CgJf/dJUbvZR3VJnrIBBCu0HPKDmSpidZgiR9Q==",
+        "signatures": [
+            {
+                "sig": "MEQCIHNflejynbNm+YGHND8EojW8pYzYiDqISR1FBSRy2tU5AiB1phZWFjydslGAkmTK29J5X0hh+gdEOclQO2yMaTeIWQ==",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 98213
+    },
+    "main": "index.js",
+    "type": "module",
+    "types": "./index.d.ts",
+    "gitHead": "9ba9096c47f667edadf37f8a019429fcbba86fc4",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack --config webpack.config.cjs"
+    },
+    "_npmUser": {
+        "name": "00ricardo",
+        "email": "ricardodavid120@gmail.com"
+    },
+    "repository": {
+        "url": "git+https://github.com/00ricardo/00ricardo-utils.git",
+        "type": "git"
+    },
+    "_npmVersion": "8.11.0",
+    "description": "Ricardo Brice\u00f1o personal JavaScript Util Functions.",
+    "directories": {},
+    "_nodeVersion": "16.16.0",
+    "dependencies": {
+        "dayjs": "^1.11.10",
+        "luxon": "^3.4.4",
+        "react": "^18.2.0",
+        "webpack": "^5.89.0",
+        "webpack-cli": "^5.1.4",
+        "@tanstack/react-query": "^5.13.4"
+    },
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/00ricardo-utils_2.1.9_1702215753023_0.20199846880690608",
+        "host": "s3://npm-registry-packages"
+    }
+}

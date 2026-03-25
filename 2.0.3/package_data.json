@@ -1,0 +1,68 @@
+{
+    "name": "00ricardo-utils",
+    "version": "2.0.3",
+    "keywords": [
+        "ES6",
+        "JavaScript",
+        "Utils"
+    ],
+    "author": {
+        "name": "Ricardo Brice\u00f1o"
+    },
+    "license": "MIT",
+    "_id": "00ricardo-utils@2.0.3",
+    "maintainers": [
+        {
+            "name": "00ricardo",
+            "email": "ricardodavid120@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/00ricardo/00ricardo-utils#readme",
+    "bugs": {
+        "url": "https://github.com/00ricardo/00ricardo-utils/issues"
+    },
+    "dist": {
+        "shasum": "b69b5f725611a1af2970ad2793069000b512382e",
+        "tarball": "https://registry.npmjs.org/00ricardo-utils/-/00ricardo-utils-2.0.3.tgz",
+        "fileCount": 7,
+        "integrity": "sha512-AeXPI7ASYrBuH9GjVQvtZqqOQ2ADlFf4rKWMudytvYwgLhR5ghuuZFpw0gJsuHqM1t4EjB2x2CtXnIaEn0aaSA==",
+        "signatures": [
+            {
+                "sig": "MEUCIDnNPnCw3GN4Wh2qf+KBFS7Y6NBoL7TVz2ImX3R/7nacAiEA4ZOifca+QkJDM7Zse400yeRtEvWOdYvz4IjdQqmIDvg=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 81938
+    },
+    "main": "dist/00ricardo-utils.min.js",
+    "type": "module",
+    "gitHead": "d10ba70aedbf2f65c1bc7c9ed37bd9867309afca",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack --config webpack.config.cjs"
+    },
+    "_npmUser": {
+        "name": "00ricardo",
+        "email": "ricardodavid120@gmail.com"
+    },
+    "repository": {
+        "url": "git+https://github.com/00ricardo/00ricardo-utils.git",
+        "type": "git"
+    },
+    "_npmVersion": "8.8.0",
+    "description": "Ricardo Brice\u00f1o personal JavaScript Util Functions.",
+    "directories": {},
+    "_nodeVersion": "16.4.0",
+    "dependencies": {
+        "luxon": "^3.3.0"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "webpack": "^5.75.0",
+        "webpack-cli": "^5.0.1"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/00ricardo-utils_2.0.3_1692112490433_0.9808769136418565",
+        "host": "s3://npm-registry-packages"
+    }
+}

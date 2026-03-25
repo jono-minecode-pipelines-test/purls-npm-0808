@@ -1,0 +1,71 @@
+{
+    "name": "00ricardo-utils",
+    "version": "2.1.14",
+    "keywords": [
+        "ES6",
+        "JavaScript",
+        "Utils"
+    ],
+    "author": {
+        "name": "Ricardo Brice\u00f1o"
+    },
+    "license": "MIT",
+    "_id": "00ricardo-utils@2.1.14",
+    "maintainers": [
+        {
+            "name": "00ricardo",
+            "email": "ricardodavid120@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/00ricardo/00ricardo-utils#readme",
+    "bugs": {
+        "url": "https://github.com/00ricardo/00ricardo-utils/issues"
+    },
+    "dist": {
+        "shasum": "d380383ca43439be2110563c2a1b132c8fd63951",
+        "tarball": "https://registry.npmjs.org/00ricardo-utils/-/00ricardo-utils-2.1.14.tgz",
+        "fileCount": 10,
+        "integrity": "sha512-/cSprUs5lMoL1ZdSeg9z8jcFnU7iW3bgijgbIA5eiI8bsME3lcBjMSKLBdK/aVZOEI8m/m1d7hRf8ccxchvfeA==",
+        "signatures": [
+            {
+                "sig": "MEQCIH4Sv3D0MeX8IJHcNjoaiOO78Pi22a5ceVQLlnR5WWSxAiApEDkQ7CAfRbRijrpTc3opmlES3pdpd8Z9V8ZhuXXePQ==",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 1746815
+    },
+    "main": "index.js",
+    "type": "module",
+    "types": "./index.d.ts",
+    "gitHead": "e4d5c3b7cdcaad753dd13e66f6515c93c282f6cd",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "rollup -c"
+    },
+    "_npmUser": {
+        "name": "00ricardo",
+        "email": "ricardodavid120@gmail.com"
+    },
+    "repository": {
+        "url": "git+https://github.com/00ricardo/00ricardo-utils.git",
+        "type": "git"
+    },
+    "_npmVersion": "9.6.4",
+    "description": "Ricardo Brice\u00f1o personal JavaScript Util Functions.",
+    "directories": {},
+    "_nodeVersion": "20.0.0",
+    "dependencies": {
+        "dayjs": "^1.11.10",
+        "luxon": "^3.4.4",
+        "react": "^18.2.0",
+        "rollup-plugin-terser": "^7.0.2",
+        "@tanstack/react-query": "^5.13.4",
+        "@rollup/plugin-commonjs": "^26.0.1",
+        "@rollup/plugin-node-resolve": "^15.2.3"
+    },
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/00ricardo-utils_2.1.14_1723725137686_0.14309520698703926",
+        "host": "s3://npm-registry-packages"
+    }
+}

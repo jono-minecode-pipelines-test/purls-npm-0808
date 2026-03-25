@@ -1,55 +1,54 @@
 {
-    "name": "0038-simple-calculator_project",
+    "name": "00ricardo-utils",
     "version": "1.0.0",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "00ricardo-utils@1.0.0",
+    "maintainers": [
+        {
+            "name": "00ricardo",
+            "email": "ricardodavid120@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/00ricardo/00ricardo-utils#readme",
+    "bugs": {
+        "url": "https://github.com/00ricardo/00ricardo-utils/issues"
+    },
+    "dist": {
+        "shasum": "47673ae1556d5a03ed83d7321ac4506dbd011ee3",
+        "tarball": "https://registry.npmjs.org/00ricardo-utils/-/00ricardo-utils-1.0.0.tgz",
+        "fileCount": 3,
+        "integrity": "sha512-ydJttdkGEQuL3rdYHxn1AdHwwE/Ozww+64Cm7tkpC641ja8VErIslKg5iV0FdLIuAvKoqSwp1VjPxNhlNQTwrg==",
+        "signatures": [
+            {
+                "sig": "MEUCIEIp/7zgh87/Dkz8JqiIEMMzQ9AYWctk3yvsL+tN6aQfAiEA0kTW1m7i9y9s3Ihky5N7fGelXTpfA9GPwn/fHINEMEk=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 1624,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjwvM4ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr0Cw//RT+Yb9KWHSt8wYvqYs7g50Y+Msz3/dfUUAv0EXMc0Sz/mVpX\r\neDMQyVH8WiWU7EmXFKQwzJguRpIoVMK2qHgdQcsziWNS2HajGE2NCn/aFnrK\r\nn3Rtk5b1mFgJqi4Qk7IQD/+WN8F2s6Juj0ZbQ7+AwCF5K0c+JsUz8jXEXY5u\r\nwJi2aP1lT9FSFBbPktccfrNp+dGsyw723ghS0zq5XUNB+bxMFwGvL94v1AB1\r\noD6IfG6H9b/hfgsNPK3iZ/v+TwtuEEZI80v/BHOqLe/pB9UucYdYxKSUxmy3\r\nveNTJdG5sjQSqTCT+fVe0CrYojp6Jk6sHB5nqK8heD6cHjsLmgkbAN3eJwGV\r\nXqv1hJJDG9k8ktJC55VuAGTEkFA60mgfTGEECAVKfJmPp9K5qsdkBfn0v1jC\r\nyNfN2w9RsyqDSzK+4AzIK1GbnT43fMU8PcpJhvyzHojoNHZOtPlZfZYmLhrY\r\nm31sKWU0ATo+kSd777xkFxhMLdu48Tpblokse4yANP2PTygDQNGBYkqRX2aB\r\nHDY7p9a6elYcFdbaQU+WyOfXWZ6si8qcmtOeI6Ez9E9MOhaSWe3lfG4nedcn\r\n0R3gd9z/LG/AYsfXGFSOhCk5U/q1YWQn6Ekmb2XdZ3tTimOCCGG99xu9A9xr\r\nzHuDiLl8do/GLpfsZMkVSAvGn3gNMNIO7A8=\r\n=byHe\r\n-----END PGP SIGNATURE-----\r\n"
+    },
     "main": "index.js",
-    "type": "module",
-    "publishConfig": {
-        "access": "public"
-    },
-    "bin": {
-        "0038-simple-calculator_project": "index.js"
-    },
+    "gitHead": "5d1ce1b17264bbb0cabefa8e78c63f30fd68d9e6",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "inquirer": "^9.3.2"
-    },
-    "devDependencies": {
-        "@types/inquirer": "^9.0.7"
-    },
-    "_id": "0038-simple-calculator_project@1.0.0",
-    "_nodeVersion": "20.11.1",
-    "_npmVersion": "10.2.4",
-    "dist": {
-        "integrity": "sha512-EVjtPm6GjBLzt7uMNd31ATc4iuq0E8flTJQ+ofwAU5MfirHph28JA4BFP6OBGQcrn0hKTBYYDP1Frngzpc+9Mg==",
-        "shasum": "49207f3f40652deda74529ecd0ffc7fd5eb74c49",
-        "tarball": "https://registry.npmjs.org/0038-simple-calculator_project/-/0038-simple-calculator_project-1.0.0.tgz",
-        "fileCount": 4,
-        "unpackedSize": 15117,
-        "signatures": [
-            {
-                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEQCIAFZsooDy57DNL8apY9xlMYSORdCA7jt+w7tQfSkh+LWAiAUFHvJ1NHNNWgrwpz1eupgxinYO00J5zReFFdse8ZZpw=="
-            }
-        ]
-    },
     "_npmUser": {
-        "name": "aitech03",
-        "email": "afnanzagq@gmail.com"
+        "name": "00ricardo",
+        "email": "ricardodavid120@gmail.com"
     },
+    "repository": {
+        "url": "git+https://github.com/00ricardo/00ricardo-utils.git",
+        "type": "git"
+    },
+    "_npmVersion": "8.8.0",
+    "description": "",
     "directories": {},
-    "maintainers": [
-        {
-            "name": "aitech03",
-            "email": "afnanzagq@gmail.com"
-        }
-    ],
+    "_nodeVersion": "16.4.0",
+    "_hasShrinkwrap": false,
     "_npmOperationalInternal": {
-        "host": "s3://npm-registry-packages",
-        "tmp": "tmp/0038-simple-calculator_project_1.0.0_1720035015477_0.4052814931613187"
-    },
-    "_hasShrinkwrap": false
+        "tmp": "tmp/00ricardo-utils_1.0.0_1673720631905_0.2688354672027018",
+        "host": "s3://npm-registry-packages"
+    }
 }

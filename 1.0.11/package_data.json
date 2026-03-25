@@ -1,0 +1,61 @@
+{
+    "name": "00ricardo-utils",
+    "version": "1.0.11",
+    "keywords": [
+        "ES6",
+        "JavaScript",
+        "Utils"
+    ],
+    "author": {
+        "name": "Ricardo Brice\u00f1o"
+    },
+    "license": "MIT",
+    "_id": "00ricardo-utils@1.0.11",
+    "maintainers": [
+        {
+            "name": "00ricardo",
+            "email": "ricardodavid120@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/00ricardo/00ricardo-utils#readme",
+    "bugs": {
+        "url": "https://github.com/00ricardo/00ricardo-utils/issues"
+    },
+    "dist": {
+        "shasum": "d013f52f3eaccdd0bee2c26ae6edca3b6bdb3913",
+        "tarball": "https://registry.npmjs.org/00ricardo-utils/-/00ricardo-utils-1.0.11.tgz",
+        "fileCount": 5,
+        "integrity": "sha512-riEOu4ahjmFvM/EcQMziMb6n9TPHT+/iXEEsSmAY9Syl3yz0X7iTVxMPaQB3ADT0+4FtIcn3JkUbq/rUdUWfUQ==",
+        "signatures": [
+            {
+                "sig": "MEUCIQC2BQ9yjFlzLIHY1nY70kvGom/57SYxu4ZUS5JQlW84dgIgSfCLKj7+FdgYgnDpT1GUaxOvitNGxlYGuwJcj3oJQ9Q=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 7188,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjw+sAACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpFLQ//f440ETjHjCPTTTHf+A/jHMcX2sap2TGCWF81l+hjd03ZtxiZ\r\n6qxcRgyjeu9zG6zoFQOXWCxFXvWxeqJaw/yndS+ZYNn9b9bDxxGUHkpqiYEu\r\n9+wx17IZn/uMF32Ou3zNmjjCMFWZSpACTF2xMh3VvHWAd9jOrtGjzUwagTlX\r\nPgDb+Ex/lZOMRgwle2hnuMiQ5kdwWj6dglR623TQnJIkiOL6beylKwLOTnjc\r\nXIJ//GCzsneQJs2dJMWfPHr+ZBPrifZ+yEZGo2lDllSh9HsNHLMn0BBi309X\r\ne5FgnSHV3eYLZ5MUo9CtQrG89c/OK+3Ik+NZ85kRbU9AOAMKewFySQ+LaPcO\r\nrjZNzhM+xzA7+cTWNU+elc1R6G/iBoztQn/hPGKAIg9e9mJ5gJ8u7pLasz3z\r\no717f3t0g+w3WGprIwHgwcYaHdzWXgtNBk2aYoLeiXuuIrvGRxeK5xAIGNsS\r\nzIJjw7DbI1YUe6X7zlV/vM05UK1Kt+/72HuHMxpfMJM4IehSLfPr9xGIjI45\r\ngmr4ukIaILDlaYFADwbbRSqmeDg3juRSHxrSX6bq6Tql0xyBrh15ymeA2i3U\r\nATjeI3JwXJ6pKaOSyB+34lfEqQ3p6Bz9vA7ekgDNc6TsazU5acLEmlV+sDmq\r\nyy1ll4OXGE0QsBX/nKWtB1rk8JUe1WV8AP8=\r\n=OxF/\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "main": "index.js",
+    "types": "./index.d.ts",
+    "gitHead": "80dbadba0348179551a0988eadd3ca6d23e1900e",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "_npmUser": {
+        "name": "00ricardo",
+        "email": "ricardodavid120@gmail.com"
+    },
+    "repository": {
+        "url": "git+https://github.com/00ricardo/00ricardo-utils.git",
+        "type": "git"
+    },
+    "_npmVersion": "8.8.0",
+    "description": "Ricardo Brice\u00f1o personal JavaScript Util Functions.",
+    "directories": {},
+    "_nodeVersion": "16.4.0",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/00ricardo-utils_1.0.11_1673784063808_0.6782193212421952",
+        "host": "s3://npm-registry-packages"
+    }
+}
